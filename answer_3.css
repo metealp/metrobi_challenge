@@ -1,0 +1,34 @@
+header {
+  height: 3rem;
+}
+.ui.vertical.segment{
+  margin: 1rem 0rem;
+  border-radius: .28571429rem;
+}
+.hero{
+  height: 10rem;
+}
+
+.sidebar_spec{
+  height: 15rem;
+}
+
+.mainCont{
+  height: 18rem;
+}
+
+.extraCont{
+  height: 7rem;
+}
+
+.relatedImg{
+  height: 6rem;
+}
+
+.relatedPost{
+  height: 6rem;
+}
+
+footer {
+  height: 3rem;
+}
